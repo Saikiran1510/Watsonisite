@@ -1,7 +1,7 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+# Watsonisite- Information about Crypto Site
 
 ## Demo
-#### Here is a working live demo :  
+#### Here is a working live demo :  https://watsonisite.netlify.app/
 
 ## Built with 
 
